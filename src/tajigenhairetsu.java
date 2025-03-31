@@ -9,8 +9,8 @@ public class tajigenhairetsu {
 					{"アメリカ","ブラジル"},
 					{"フランス","ロシア"}
 			};
-			System.out.println(country[0][0]);
-			
+		System.out.println(country[0][0]);
+
 		String[][] country1 =
 			{
 					{"日本","タイ"},
@@ -18,7 +18,7 @@ public class tajigenhairetsu {
 					{"フランス","ロシア"}
 			};
 		System.out.println(country1[0][1]);
-		
+
 		String[][] country2 =
 			{
 					{"日本","タイ"},
@@ -26,7 +26,7 @@ public class tajigenhairetsu {
 					{"フランス","ロシア"}
 			};
 		System.out.println(country2[1][0]);
-		
+
 		String[][] country3 =
 			{
 					{"日本","タイ"},
@@ -34,7 +34,7 @@ public class tajigenhairetsu {
 					{"フランス","ロシア"}
 			};
 		System.out.println(country3[2][1]);
-		
+
 		String[][] country4 = new String[3][2];
 		country4[0][0]="日本";
 		country4[0][1]="タイ";
@@ -43,8 +43,8 @@ public class tajigenhairetsu {
 		country4[2][0]="フランス";
 		country4[2][1]="ロシア";
 		System.out.println(country[0][0]);
-		
-		
+
+
 		String[][] country5 = new String[3][2];
 		country5[0][0]="日本";
 		country5[0][1]="タイ";
@@ -53,20 +53,20 @@ public class tajigenhairetsu {
 		country5[2][0]="フランス";
 		country5[2][1]="ロシア";
 		System.out.println(country[1][1]);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	}
 }
