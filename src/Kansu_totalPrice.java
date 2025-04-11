@@ -1,5 +1,5 @@
 
-public class kansu_totalPrice {
+public class Kansu_totalPrice {
 
     // メソッドは main メソッドの外で定義する
     public static int totalPrice(int fruitPrice) {

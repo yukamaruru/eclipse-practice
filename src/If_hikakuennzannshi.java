@@ -1,5 +1,5 @@
 
-public class if_hikakuennzannshi {
+public class If_hikakuennzannshi {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ

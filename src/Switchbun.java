@@ -1,5 +1,5 @@
 
-public class switchbun {
+public class Switchbun {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
@@ -11,7 +11,7 @@ public class switchbun {
 			}
 		
 		int b = 1;
-		switch(a) {
+		switch(b) {
 			case 0:	
 				System.out.println("bは０に等しい");
 				break;

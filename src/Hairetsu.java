@@ -1,5 +1,5 @@
 
-public class hairetsu {
+public class Hairetsu {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
@@ -16,10 +16,10 @@ public class hairetsu {
 			System.out.println(c[0]);
 				
 		char[] d = {'x','y','z'};
-			 System.out.println(c[1]);
+			 System.out.println(d[1]);
 			 
 		char[] e = {'x','y','z'};
-			System.out.println(c[2]);
+			System.out.println(e[2]);
 			
 		int[] i = {1,5,10};
 			System.out.println(i[0]);
